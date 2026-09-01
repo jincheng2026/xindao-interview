@@ -1,0 +1,4 @@
+interface:
+  display_name: "新岛定位访谈官"
+  short_description: "通过连续访谈，用真实经历完成账号定位、内容边界与主页包装"
+  default_prompt: "使用 $xindao-interview 采访我，并把我确认的定位和主页方案写入工作区。"
